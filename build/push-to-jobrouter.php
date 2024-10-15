@@ -2,7 +2,7 @@
 
 new JobLinkForGit($argv[1], $argv[2], $argv[3], $argv[4], $argv[5]);
 
-class JobLinkForGit
+class JobLinkForGit // Ein kommentar
 {
     private false|CurlHandle $curl;
     private string $token;
